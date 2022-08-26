@@ -57,10 +57,8 @@ global.themeemoji = "🐶"
 global.reactmoji = "😘"
 global.ownertag = ['087843829315'] //ur owner tag
 global.ownernummenu = ['087843829315'] //ur owner number in menu and all
-global.watermark = "Xeon Bot Inc." //ur watermark
-global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
-global.linkz1 = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
-global.linkz2 = "https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd"
+global.watermark = "Achillzz bott Inc." //ur watermark
+global.botscript = "https://github.com/Achillzz/CheemsBot-MD3"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
