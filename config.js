@@ -41,22 +41,22 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['ur number'] //ur owner number
-global.ownername = "ur name"
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['087843829315'] //ur owner number
+global.ownername = "Achillzz"
+global.ttname = "TT: acil" //ur yt chanel name
+global.socialm = "GitHub: Achillzz" //ur github or insta name
+global.location = "Indonesia, Mizoram, Aizawl" //ur location
 
 //bot bombdy
-global.botname = "ur bot name" //ur bot name
-global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website
+global.botname = "Achillzz bott" //ur bot name
+global.websitex = "https://www.tiktok.com/@acil_di_sini?_r=1&_d=djjgh5m285ghg8&language=id&sec_uid=MS4wLjABAAAAmZRg7mH5USse0bIio4-cCbB2YqpM2owZ9SxUIuubrO2SZt6kK22Xf2jpgvLWjQg5&share_author_id=7110583976842445851&source=h5_t&u_code=e2ah78ml436cd8&timestamp=1661482472&user_id=7110583976842445851&sec_user_id=MS4wLjABAAAAmZRg7mH5USse0bIio4-cCbB2YqpM2owZ9SxUIuubrO2SZt6kK22Xf2jpgvLWjQg5&utm_source=copy&utm_campaign=client_share&utm_medium=android&share_iid=7135501101327157019&share_link_id=181ddf61-83d1-418a-8be0-cf7931afacec&share_app_id=1180&ugbiz_name=Account" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "🦄Dream Guy Xeon"
+global.packname = "Achillzz bott Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
+global.author = "🦄Dream Chilz gans"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['ur number'] //ur owner tag
-global.ownernummenu = ['ur number'] //ur owner number in menu and all
+global.ownertag = ['087843829315'] //ur owner tag
+global.ownernummenu = ['087843829315'] //ur owner number in menu and all
 global.watermark = "Xeon Bot Inc." //ur watermark
 global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
 global.linkz1 = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
